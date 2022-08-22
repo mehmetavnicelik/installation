@@ -10,6 +10,7 @@ sudo apt install g++ -y
 sudo snap install spotify
 sudo apt install wget
 sudo apt install curl
+sudo apt install xclip
 sudo apt-get -y install preload #installs preload utility for make the computer faster 
 sudo snap install postman
 sudo apt install git -y
